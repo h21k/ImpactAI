@@ -5,18 +5,18 @@ Machine Learning course built on a combination of resources (Stanford's cs221n, 
 ## How fo I get it?
 
 Get a copy of the ImpactAI course by either downloading the zip file or:<br>
-    ```bash
+    ```<br>
     git clone https://github.com/h21k/ImpactAI.git
-    ```
+    ```<br>
 ## Course Structure
 
 (Note this is currently incomplete - updates follow)
 
 ### Fundamentals - Linear Algebra based on (MIT 18.06) by Gilbert Strang
 
-A1 = Linear Algebra 
-A2 = Linear Algebra 
-A3 = Factorization into A = LU 
+A1 = Linear Algebra<br>
+A2 = Linear Algebra<br>
+A3 = Factorization into A = LU<br>
 
 ## Workshops, Teaching & Talks 
 
