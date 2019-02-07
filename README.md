@@ -4,7 +4,7 @@ Machine Learning course built on a combination of resources (Stanford's cs221n, 
 
 ## How fo I get it?
 
-Get a copy of the ImpactAI course by either download the zip file or: 
+Get a copy of the ImpactAI course by either downloading the zip file or:<br>
     ```bash
     git clone https://github.com/h21k/ImpactAI.git
     ```
