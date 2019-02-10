@@ -12,12 +12,17 @@ Get a copy of the ImpactAI course by either downloading the zip file or:<br>
 
 (Note this is currently incomplete - updates follow)
 
-### Fundamentals - Linear Algebra based on (MIT 18.06) by Gilbert Strang
+### I. Fundamentals - Linear Algebra based on (MIT 18.06) by Gilbert Strang
 
 ```
-A1 = (Linear Algebra)[link]<br>
+A1 = Linear Algebra<br>
 A2 = Linear Algebra<br>
 A3 = Factorization into A = LU<br>
+```
+### II. Convolutional Neural Networks fundamentals - Stanford cs221n by Fei-Fei Li & Justin Johnson
+
+```
+B1 = Optimisation functions
 ```
 
 ## Workshops, Teaching & Talks 
