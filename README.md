@@ -24,6 +24,18 @@ A3 = Factorization into A = LU<br>
 ```
 B1 = Optimisation functions
 ```
+### IV.
+### V.
+### VI.
+### VII.
+### VIII.
+### IX.
+### X.
+### XI.
+
+```
+B1 = Optimisation functions
+```
 
 ## Workshops, Teaching & Talks 
 
