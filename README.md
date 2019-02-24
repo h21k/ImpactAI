@@ -13,6 +13,8 @@ Get a copy of the ImpactAI course by either downloading the zip file or:<br>
 (Note this is currently incomplete - updates follow)
 
 ### I. Fundamentals - Linear Algebra based on (MIT 18.06) by Gilbert Strang
+Gilbert Strang's lectures of which this section is based on can be seen here: www..com<br>
+This segment gives you the fundamentals required for the ML sections. This will involve linear algebra, matrix multiplications, vector spaces etc...
 
 ```
 A1 = Linear Algebra<br>
