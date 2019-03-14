@@ -20,6 +20,10 @@ This segment gives you the fundamentals required for the ML sections. This will 
 A1 = Linear Algebra<br>
 A2 = Linear Algebra<br>
 A3 = Factorization into A = LU<br>
+--
+B1 = Linear Algebra<br>
+B2 = Linear Algebra<br>
+B3 = Factorization into A = LU<br>
 ```
 ### II. Convolutional Neural Networks fundamentals - Stanford cs221n by Fei-Fei Li & Justin Johnson
 
