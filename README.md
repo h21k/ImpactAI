@@ -24,6 +24,14 @@ A3 = Factorization into A = LU<br>
 B1 = Linear Algebra<br>
 B2 = Linear Algebra<br>
 B3 = Factorization into A = LU<br>
+--
+C1 = Linear Algebra<br>
+C2 = Linear Algebra<br>
+C3 = Factorization into A = LU<br>
+
+Lecture notes available here: 
+
+Excercises available here: 
 ```
 ### II. Convolutional Neural Networks fundamentals - Stanford cs221n by Fei-Fei Li & Justin Johnson
 
